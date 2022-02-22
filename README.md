@@ -24,6 +24,8 @@
   ![Screen Shot 2022-02-22 at 1 01 34 AM](https://user-images.githubusercontent.com/79775889/155090163-8e904b4d-b982-4ffb-8eab-3ea351b1bf93.png)
   
   ![Screen Shot 2022-02-22 at 1 02 19 AM](https://user-images.githubusercontent.com/79775889/155090209-841df2b8-8356-4458-b56d-241e6f11b628.png)
+  
+  Deployed on Heroku https://nathans-note-taker.herokuapp.com/
 
   
 
