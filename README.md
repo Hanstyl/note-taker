@@ -27,9 +27,6 @@
   
   Deployed on Heroku https://nathans-note-taker.herokuapp.com/
 
-  
-
-  ![alt text](assets/images/screenshot.png)
 
   ## Contributors
 
